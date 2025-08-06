@@ -2,6 +2,7 @@
   "name": "gabrielvsantana",
   "private": true,
   "type": "module",
+  "homepage": "https://gabrielvsantana.com",
   "scripts": {
     "dev": "vite --port 3000",
     "start": "vite --port 3000",
@@ -21,6 +22,7 @@
   "devDependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/react": "^16.2.0",
+    "@types/node": "^24.2.0",
     "@types/react": "^19.0.8",
     "@types/react-dom": "^19.0.3",
     "@vitejs/plugin-react": "^4.3.4",
